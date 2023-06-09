@@ -1,4 +1,4 @@
-import streamlit
+import streamlit as st
 
 
 streamlit.title('My Parents new healthy dinner')
