@@ -1,5 +1,4 @@
-import streamlit as st
-
+import streamlit
 
 streamlit.title('My Parents new healthy dinner')
 streamlit.header('Breakfast Menu')
