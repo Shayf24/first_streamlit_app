@@ -1,5 +1,6 @@
 #requirement.txt
 
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v2.7.9/tested_requirements/requirements_39.reqs
 
 cffi==1.15.0
 charset-normalizer==2.0.12
