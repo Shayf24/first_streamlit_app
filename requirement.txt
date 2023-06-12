@@ -1,6 +1,18 @@
 
 #requirement.txt
 
-snowflake-connector-python
+altair
+
+pandas
+
+streamlit
+
+snowflake
+
+charset-normalizer==2.0.12
+
+ 
+
+snowflake-connector-python==2.7.9
 
 add client_session_keep_alive = "True" to .streamlit/secrets.toml.
