@@ -13,5 +13,5 @@ snowflake-connector-python==2.7.9
 streamlit==1.18.1
 snowflake==0.0.3
 snowflake-connector-python==3.0.0
--r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v3.0.0/tested_requirements/requirements_39.txt
+-r https://raw.githubusercontent.com/snowflakedb/snowflake-connector-python/v3.0.0/tested_requirements/requirements.txt
 add client_session_keep_alive = "True" to .streamlit/secrets.toml.
