@@ -41,7 +41,5 @@ fruityvice_normalized = pandas.json_normalize(fruityvice_response.json())
 streamlit.dataframe(fruityvice_normalized)
 
 
-import snowflake 
 
 import snowflake.connector
-from urllib.error import URLError
