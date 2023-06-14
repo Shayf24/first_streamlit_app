@@ -57,7 +57,7 @@ streamlit.dataframe(my_data_rows)
 
 streamlit.header("Choose a fruit to add")
 fruit_add= streamlit.text_input('What fruit would you like to add?','cherry')
-streamlit.button('Add a Fruit to the List'):
+streamlit.button('Add a Fruit to the List:')
  my_cnx = snowflake.connector.connect(**streamlit.secrets["snowflake"])
  back_from_function = insert_row_snowflake(add_my_fruit)
  my_cnx.close()
